@@ -41,7 +41,7 @@ I'm an Applied Machine Learning Researcher with a PhD and extensive experience i
 - He/Him/SuperHero
   
 ⚡ Fun fact:
-- When I'm not diving deep into machine learning models, I enjoy teaching AI concepts and doing extreme home fitness.
+- When I'm not diving deep into machine learning models, I enjoy teaching AI concepts, and staying fit.
   
 I'm passionate about harnessing the power of AI to drive innovation and transform industries. Let's connect and build something amazing together!
 ```
