@@ -2,6 +2,15 @@
 
 I'm an Applied Machine Learning Researcher with a PhD and extensive experience in AI, ML, and advanced analytics. I specialize in building, deploying, and optimizing cutting-edge machine learning models—from natural language processing and generative AI to decision systems that drive actionable insights in both defense and commercial sectors.
 
+## My Portfolio:
+**Hotel Booking Cancellation Prediction**  [Hotel Booking Cancellation Prediction - REVISION.pptx](https://github.com/user-attachments/files/18947470/Hotel.Booking.Cancellation.Prediction.-.REVISION.pptx)
+  A comprehensive project that uses decision systems and advanced ML models to predict hotel booking cancellations and provide actionable insights.  
+**Prompt Engineering GenAI Powered Review Categorization**  [Prompt Engineering GenAI Powered Review Categorization.pptx](https://github.com/user-attachments/files/18947478/Prompt.Engineering.GenAI.Powered.Review.Categorization.pptx)
+  An exploration into advanced prompting techniques—Few-Shot, Zero-Shot, and Chain-of-Thought—to analyze and categorize customer reviews with actionable outputs.  
+**SMS Spam Detection**  [SMS Spam Detection.pptx](https://github.com/user-attachments/files/18947479/SMS.Spam.Detection.pptx)
+  A project focused on detecting and classifying SMS spam using state-of-the-art ML models, ensuring robust and accurate spam filtering.  
+  
+
 🔭 I’m currently working on ...
 - Developing scalable AI solutions for complex, real-world challenges.
 - Advancing generative AI applications and engineering multimodal large language models for targeted 🎯 capabilities.
@@ -26,14 +35,6 @@ I'm an Applied Machine Learning Researcher with a PhD and extensive experience i
 - He/Him/SuperHero
 ⚡ Fun fact:
 - When I'm not diving deep into machine learning models, I enjoy teaching AI concepts and doing extreme home fitness.
-  
-### Featured Projects
-**Hotel Booking Cancellation Prediction**  [Hotel Booking Cancellation Prediction - REVISION.pptx](https://github.com/user-attachments/files/18947470/Hotel.Booking.Cancellation.Prediction.-.REVISION.pptx)
-  A comprehensive project that uses decision systems and advanced ML models to predict hotel booking cancellations and provide actionable insights.  
-**Prompt Engineering GenAI Powered Review Categorization**  [Prompt Engineering GenAI Powered Review Categorization.pptx](https://github.com/user-attachments/files/18947478/Prompt.Engineering.GenAI.Powered.Review.Categorization.pptx)
-  An exploration into advanced prompting techniques—Few-Shot, Zero-Shot, and Chain-of-Thought—to analyze and categorize customer reviews with actionable outputs.  
-**SMS Spam Detection**  [SMS Spam Detection.pptx](https://github.com/user-attachments/files/18947479/SMS.Spam.Detection.pptx)
-  A project focused on detecting and classifying SMS spam using state-of-the-art ML models, ensuring robust and accurate spam filtering.  
   
 I'm passionate about harnessing the power of AI to drive innovation and transform industries. Let's connect and build something amazing together!
 ```
