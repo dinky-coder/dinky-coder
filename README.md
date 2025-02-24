@@ -21,10 +21,10 @@ I'm an Applied Machine Learning Researcher with a PhD and extensive experience i
 👩🏾‍🤝‍👨🏾 I’m looking to collaborate on ...
 - Projects that blend natural language processing, speech recognition, and multimodal AI research.
 - Initiatives that push the boundaries of prompt engineering and generative AI.
-🤔 I’m looking for help with:
+-🤔 I’m looking for help with:
   Integrating reinforcement learning with human feedback (RLHF) for improved model robustness.
   Optimizing prompt strategies to unlock the full potential of generative models.
-💬 Ask me about:
+-💬 Ask me about:
   Generative AI, large language models, and innovative, cutting-edge applied machine learning research.
   My experiences in bridging advanced research with practical, mission-critical applications.
   How to use code and no-code approaches for AI-backed business decision-making.
