@@ -1,4 +1,4 @@
-## Hi there, I'm Dayn Kirksey, PhD! 👋
+## Hi there, I'm Dayn Kirksey, PhD! 👋🏼
 
 I'm an Applied Machine Learning Researcher with a PhD and extensive experience in AI, ML, and advanced analytics. I specialize in building, deploying, and optimizing cutting-edge machine learning models—from natural language processing and generative AI to decision systems that drive actionable insights in both defense and commercial sectors.
 
