@@ -14,6 +14,7 @@ I'm an Applied Machine Learning Researcher with a PhD and extensive experience i
 🔭 I’m currently working on ...
 - Developing scalable AI solutions for complex, real-world challenges.
 - Advancing generative AI applications and engineering multimodal large language models for targeted 🎯 capabilities.
+  
 🌱 I’m currently learning ...
 - JAX-based pipelines for large-scale ML model training.
 - No-code AI and machine learning techniques to democratize data science.
