@@ -33,7 +33,7 @@ I'm an Applied Machine Learning Researcher with a PhD and extensive experience i
 - My experiences in bridging advanced research with practical, mission-critical applications.
 - How to use code and no-code approaches for AI-backed business decision-making.
 
-📫 How to reach me:
+📫 Reach me at:
 - **Email:** [dayn.h.kirksey1@gmail.com]
 - **LinkedIn:** [https://www.linkedin.com/in/dayn-kirksey]
   
