@@ -1,6 +1,6 @@
 ## Hi there, I'm Dayn Kirksey, PhD! 👋🏼
 
-I'm an Applied Machine Learning Researcher with a PhD and extensive experience in AI, ML, and advanced analytics. I specialize in building, deploying, and optimizing cutting-edge machine learning models—from natural language processing and generative AI to decision systems that drive actionable insights in both defense and commercial sectors.
+I'm a Data Scientist and an Associate Adjuct Professor at University of Maryland Global Campus (UMGC) where I teach Fundamentals of Artificial Intelligence. I specialize in AI and machine learning for building data science solutions.
 
 ## My Portfolio:
 **Hotel Booking Cancellation Prediction**  [Hotel Booking Cancellation Prediction - REVISION.pptx](https://github.com/user-attachments/files/18947470/Hotel.Booking.Cancellation.Prediction.-.REVISION.pptx)
